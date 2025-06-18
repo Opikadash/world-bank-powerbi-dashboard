@@ -42,8 +42,8 @@ This project analyzes World Development Indicators from the World Bank. It inclu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WorldBankDataAnalysis.git
-cd WorldBankDataAnalysis
+git clone https://github.com/Opikadash/world-bank-powerbi-dashboard.git
+cd world-bank-powerbi-dashboard
 ```
 
 2. Set up the environment:
